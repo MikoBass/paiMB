@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ababab;
+}
+#choose{
+    display: flex;
+    flex-direction: row;
+
+}
+#fir{
+
+}
+#sec{
+
+
+}
+.inpat{
+    height: 20px;
+    border-radius: 16px;
+    text-align: center;
+    margin: 5px;
+    background: #f5f5f5;
+}
